@@ -4,7 +4,7 @@ An application that generates a random password based on user-selected criteria.
 
 
 ## Deployment
-Web: 
+Web: https://clarenceyg.github.io/fsbcPasswordGenerator/index.html
 
 Repository: https://github.com/clarenceyg/fsbcPasswordGenerator
 
