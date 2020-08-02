@@ -12,15 +12,16 @@ Author: Clarence Guerrero
 
 
 ##  Logic
-1. Click Generate Password
-2. Alerts - Input Types
+1. Initialize
+2. Click Generate Password
+3. Alerts - Input Types
    1. password length - enter number between 8-128 (include error checking)
    2. ask if includes uppercase
    3. ask if includes lowercase
    4. ask if includes numbers
    5. ask if includes symbols
    6. Error checking - make sure at last one character type is selected
-3. Display
+4. Display
    1. Check if all prompts are answered
    2. Check if 2.6 was satisfied
    3. Display password on screen (not on alert)
